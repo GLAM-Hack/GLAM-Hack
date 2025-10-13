@@ -1,8 +1,8 @@
-<img align="right" height="330" src="https://i.ibb.co.com/hFPL0gkR/document-5433949690406140108-ezgif-com-crop.gif"  />
+<h1 align="left">Привет👋 Меня зовут Никита!</h1>
 
 ###
 
-<h1 align="left">Привет👋 Меня зовут Никита!</h1>
+<img align="right" height="250" src="https://i.ibb.co.com/hFPL0gkR/document-5433949690406140108-ezgif-com-crop.gif"  />
 
 ###
 
@@ -48,6 +48,12 @@
 
 ###
 
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=50&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=random"  />
+</div>
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GLAM-Hack/GLAM-Hack/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GLAM-Hack/GLAM-Hack/output/pacman-contribution-graph.svg">
@@ -64,17 +70,19 @@
 
 <h4 align="left">Я — начинающий программист и пентестер, увлечённый автоматизацией и прикладными исследованиями уязвимостей. Создаю практичные инструменты и скрипты на Python, разрабатываю и оптимизирую низкоуровневый код на C. Основные направления: reconnaissance, web/infra pentesting и анализ сетевого трафика. Постоянно изучаю современные методы атак и защиты; готов участвовать в проектах по созданию утилит, автоматизации тестирования и комплексной оценке безопасности.</h4>
 
+<table>
+  <tr>
+    <td style="width:40px; text-align:center">🛡</td>
+    <td><strong>TryHackMe</strong> — практические задачи по кибербезопасности и pentesting.</td>
+  </tr>
+  <tr>
+    <td style="text-align:center">🧩</td>
+    <td>Активный обучающийся — прохожу комнаты и треки по безопасности.</td>
+  </tr>
+
 ###
 
-🛡 Обучаюсь на TryHackMe — практические задачи по кибербезопасности и pentesting.
-🧩 Активный обучающийся на TryHackMe — прохожу комнаты и треки по безопасности.
-🔍 Практикуюсь в web‑эксплуатации, сетевом pentest’e и анализе трафика.
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=50&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=random"  />
-</div>
+<p align="left">Hello World!!</p>
 
 ###
 
