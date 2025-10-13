@@ -1,6 +1,10 @@
+<br clear="both">
+
 <h1 align="left">Привет👋 Меня зовут Никита!</h1>
 
 ###
+
+<br clear="both">
 
 <img align="right" height="230" src="https://i.ibb.co.com/hFPL0gkR/document-5433949690406140108-ezgif-com-crop.gif"  />
 
@@ -46,15 +50,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
 </div>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GLAM-Hack/GLAM-Hack/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GLAM-Hack/GLAM-Hack/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GLAM-Hack/GLAM-Hack/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/FilimonovAlexey/FilimonovAlexey/main/assets/github-snake.svg" alt="Snake animation" width="100%">
+</div>
 
 ###
+
 
 <br clear="both">
 
@@ -63,12 +64,6 @@
 ###
 
 <h4 align="left">Я — начинающий программист и пентестер, увлечённый автоматизацией и прикладными исследованиями уязвимостей. Создаю практичные инструменты и скрипты на Python, разрабатываю и оптимизирую низкоуровневый код на C. Основные направления: reconnaissance, web/infra pentesting и анализ сетевого трафика. Постоянно изучаю современные методы атак и защиты; готов участвовать в проектах по созданию утилит, автоматизации тестирования и комплексной оценке безопасности.</h4>
-
-<p>🛡 Обучаюсь на TryHackMe — практические задачи по кибербезопасности и pentesting.</p>
-
-<p><em>Средний (для шапки профиля)</em></p>
-
-<p>🧩 Активный обучающийся на TryHackMe — прохожу комнаты и треки по безопасности.</p>
 
 ###
 
@@ -85,6 +80,12 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GLAM-Hack&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GLAM-Hack&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=radical"  />
 </div>
 
 ###
