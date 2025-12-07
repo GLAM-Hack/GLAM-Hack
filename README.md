@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="left">Привет👋 Меня зовут Никита!</h1>
+<h1 align="left">👋Привет. Меня зовут Никита!</h1>
 
 <br clear="both">
 
